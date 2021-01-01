@@ -2,4 +2,7 @@
 
 
 # Version Waypoint 
-- v0.2.0 = 2 Januari 2020
+- v0.2.0 
+
+# Dockerhub
+- https://hub.docker.com/r/insignficant/waypoint-cli
